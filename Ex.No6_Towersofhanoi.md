@@ -29,7 +29,6 @@ move(1,X,Y,_),
 move(M,Z,Y,X).
 ```
 
-
 ### Output:
 ![image](https://github.com/rajalakshmi8248/AI_Lab_2023-24/assets/122860827/8d98f58b-ffc4-4b22-9a33-c6f6d915be68)
 
