@@ -1,5 +1,5 @@
-# Ex.No: 10 Sign Language Detection by using the CNN  
-### DATE: 11/11/2024                                                                            
+# Ex.No: 13 Sign Language Detection by using the CNN  
+### DATE: 24/10/2024                                                                            
 ### REGISTER NUMBER : 212222220029
 ### AIM: 
 To build a Convolutional Neural Network (CNN) model for sign language detection, train the model on a dataset of hand gesture images, and evaluate its performance in predicting sign language symbols.
